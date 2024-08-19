@@ -1,6 +1,5 @@
 # Risco-de-RN-com-asfixia
 Projeto de avaliação de risco de partos em Rondônia
-
 {
  "cells": [
   {
@@ -137,5 +136,3 @@ Projeto de avaliação de risco de partos em Rondônia
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-
-****** PARTO = Tipo de parto, conforme a tabela: 9: Ignorado. 1: Vaginal. 2: Cesáreo.
